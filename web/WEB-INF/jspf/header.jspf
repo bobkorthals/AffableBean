@@ -28,8 +28,8 @@
                 </div>
 
                 <a href="#">
-                    <img src="images\logo.png" id="logo" alt="Affable Bean logo">
+                    <img src="#" id="logo" alt="Affable Bean logo">
                 </a>
 
-                <img src="images\logoText.png" id="logoText" alt="the affable bean">
+                <img src="#" id="logoText" alt="the affable bean">
             </div>
